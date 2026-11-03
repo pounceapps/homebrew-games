@@ -7,13 +7,15 @@ silicon and Intel Macs with macOS 13 or later.
 brew install --cask pounceapps/games/blackjack
 brew install --cask pounceapps/games/hangman
 brew install --cask pounceapps/games/adventure-house
+brew install --cask pounceapps/games/santa-fe-trader
+brew install --cask pounceapps/games/inside-the-mainframe
 ```
 
 Or tap once and use the short names:
 
 ```sh
 brew tap pounceapps/games
-brew install --cask blackjack hangman adventure-house
+brew install --cask blackjack hangman adventure-house santa-fe-trader inside-the-mainframe
 ```
 
 `brew upgrade --cask` gets new versions; `brew uninstall --cask <game>` removes one.

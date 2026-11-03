@@ -8,7 +8,7 @@ cask "hangman" do
   homepage "https://stevesparks.com/apps"
 
   auto_updates false
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Hangman.app"
 

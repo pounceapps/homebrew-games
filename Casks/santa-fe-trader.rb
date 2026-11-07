@@ -1,6 +1,6 @@
 cask "santa-fe-trader" do
-  version "1.1.0"
-  sha256 "ef739ae772d89d561a41d2932c1253ed13f104eade5f782bc0d6f764913f826a"
+  version "1.1.1"
+  sha256 "2725f23d928676b602f36ad319e584e55d32b673f9f748ea52ff71e8f81d2125"
 
   url "https://github.com/pounceapps/downloads/releases/download/santa-fe-trader-v#{version}/SantaFeTrader-#{version}.dmg"
   name "Santa Fe Trader"

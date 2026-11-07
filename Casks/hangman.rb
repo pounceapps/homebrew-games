@@ -1,6 +1,6 @@
 cask "hangman" do
-  version "1.1.0"
-  sha256 "0a1ddd2981468e0c4f7f92f87fa185c5f70e6bae403e4f69a0b117ae653b5262"
+  version "1.1.1"
+  sha256 "d9e8e9d1e1306769f354377e55ade3a3c723fc9d2b1db12e91f512f839e31260"
 
   url "https://github.com/pounceapps/downloads/releases/download/hangman-v#{version}/Hangman-#{version}.dmg"
   name "Hangman"

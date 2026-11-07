@@ -1,6 +1,6 @@
 # PounceApps Games Homebrew Tap
 
-Games by [Three Peppers Gaming](https://github.com/Three-Peppers-Gaming) (Steve Sparks) for macOS, installed with
+Games by [Three Peppers Gaming](https://threepeppersgaming.com) (Steve Sparks) for macOS, installed with
 [Homebrew](https://brew.sh). Free, signed and notarized, for Apple silicon and Intel Macs with macOS 13 or later.
 
 Tap and trust once (Homebrew now asks you to trust third-party taps), then install any game:

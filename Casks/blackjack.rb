@@ -1,6 +1,6 @@
 cask "blackjack" do
-  version "1.1.0"
-  sha256 "9a49efddfc1defb72ca9ef2962e30295a48876870c306bfcda091948c99aca54"
+  version "1.1.1"
+  sha256 "c3b2a05340715101752fc88e3213c3e6441ecdf79b99e267858ce386fa6b79cc"
 
   url "https://github.com/pounceapps/downloads/releases/download/blackjack-v#{version}/Blackjack-#{version}.dmg"
   name "Blackjack"

@@ -29,7 +29,7 @@ brew install --cask hangman
 | Blackjack: single-deck blackjack with retro card art | `blackjack` |
 | Hangman: nine word lists, 1980s bulletin-board style | `hangman` |
 
-Land of Senia is a Mac app only. The others also play in the browser at
+Land of Senia is a Mac app only; see [landofsenia.com](https://landofsenia.com). The others also play in the browser at
 [stevesparks.com/arcade](https://stevesparks.com/arcade).
 
 PounceApps is where these games are built, signed and handed out. The DMGs the casks download live in

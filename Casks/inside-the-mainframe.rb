@@ -1,6 +1,6 @@
 cask "inside-the-mainframe" do
-  version "1.1.1"
-  sha256 "04a90d90943272f39e578d6983dd4d2b1b7123ddf996f983f52af94715e01c73"
+  version "1.1.2"
+  sha256 "7397985327969727949501a14d03c3bf6552056c7d2bfaf2a4a1a9dc400e175b"
 
   url "https://github.com/pounceapps/downloads/releases/download/inside-the-mainframe-v#{version}/InsidetheMainframe-#{version}.dmg"
   name "Inside the Mainframe"

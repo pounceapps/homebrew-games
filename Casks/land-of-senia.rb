@@ -1,6 +1,6 @@
 cask "land-of-senia" do
-  version "1.0.4"
-  sha256 "da61fe0dd55b68e15fe08482207992d8808676b279fa2e02a8734bd84e3d7d12"
+  version "1.0.5"
+  sha256 "323ae2db7180b8590243b3b2a3c6d1b05e90231943708b38807521c1c313f357"
 
   url "https://github.com/pounceapps/downloads/releases/download/land-of-senia-v#{version}/LandofSenia-#{version}.dmg"
   name "Land of Senia"

@@ -1,6 +1,6 @@
 cask "adventure-house" do
-  version "1.1.1"
-  sha256 "436ac3492cbb62c5a6d5e08aea4361f148211e7d6ec2715950d39ca100cead1f"
+  version "1.1.2"
+  sha256 "b99d6e3d461d9f4b8a670191d9a4b651b97f436f9d30f00dc24bf839567186c7"
 
   url "https://github.com/pounceapps/downloads/releases/download/adventure-house-v#{version}/AdventureHouse-#{version}.dmg"
   name "Adventure House"
